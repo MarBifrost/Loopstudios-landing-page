@@ -1,0 +1,35 @@
+[
+    {
+        "imgSrc" : "./images/desktop/image-deep-earth.jpg",
+        "txt" : "Deep<br> earth"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-night-arcade.jpg",
+        "txt" : "Night<br> arcade"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-soccer-team.jpg",
+        "txt" : "DSoccer team VR"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-grid.jpg",
+        "txt" : "The grid"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-from-above.jpg",
+        "txt" : "From up above VR"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-pocket-borealis.jpg",
+        "txt" : "Pocket borealis"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-curiosity.jpg",
+        "txt" : "The<br> curiosity"
+    },
+    {
+        "imgSrc" : "./images/desktop/image-fisheye.jpg",
+        "txt" : "Make it fisheye"
+    }
+
+]
